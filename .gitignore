@@ -1,18 +1,6 @@
-*.gem
-*.rbc
-.bundle
-.config
-coverage
-InstalledFiles
-lib/bundler/man
-pkg
-rdoc
-spec/reports
-test/tmp
-test/version_tmp
-tmp
-
-# YARD artifacts
-.yardoc
-_yardoc
-doc/
+counter = 1
+	if 	counter < 10
+				print "The counter is less than 10!"
+else
+				print "The counter is not less than 10!"
+end
